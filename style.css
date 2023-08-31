@@ -289,7 +289,7 @@ p{
   animation-delay: 2.5s;
 }
 
-#hero h2{
+#hero .1{
   color: white;
 #hero .cta{
   display: inline-block;
