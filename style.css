@@ -288,6 +288,9 @@ p{
 #hero h1:nth-col(3) span{
   animation-delay: 2.5s;
 }
+
+#hero h2{
+  color: white;
 #hero .cta{
   display: inline-block;
   padding: 10px 30px;
