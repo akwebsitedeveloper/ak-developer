@@ -174,7 +174,7 @@ body {
     left: 0;
     height: 11rem;
     width: 100%;
-    background: url(./img/images.jfif);
+    background: url(images.jfif);
     background-size: 100rem 11rem;
     background-repeat: repeat-x;
     animation: waves 10s linear infinite;
